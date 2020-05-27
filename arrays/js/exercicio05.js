@@ -1,0 +1,4 @@
+/**
+ * array vazio
+ */
+var umArrayVazio = [];

@@ -1,0 +1,47 @@
+[2020-05-24 21:23:51.906] [exthost] [info] extension host started
+[2020-05-24 21:23:52.035] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-05-24 21:23:52.035] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/aaron-bond.better-comments-2.0.5/out/extension
+[2020-05-24 21:23:52.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2020-05-24 21:23:52.274] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/31/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-05-24 21:23:52.459] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-codemetrics {"startup":false,"extensionId":{"value":"kisstkondoros.vscode-codemetrics","_lower":"kisstkondoros.vscode-codemetrics"},"activationEvent":"onLanguage:javascript"}
+[2020-05-24 21:23:52.459] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/kisstkondoros.vscode-codemetrics-1.24.0/dist/extension
+[2020-05-24 21:23:52.568] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-24 21:23:52.569] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/31/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-05-24 21:23:52.634] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-24 21:23:52.634] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/31/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-05-24 21:23:52.757] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-24 21:23:52.757] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/31/usr/share/code/resources/app/extensions/git/dist/main
+[2020-05-24 21:23:52.888] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-24 21:23:52.888] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/31/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-05-24 21:23:52.914] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-24 21:23:52.914] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/31/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-05-24 21:23:52.941] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-24 21:23:52.941] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/31/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-05-24 21:23:52.947] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-24 21:23:52.947] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/31/usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-05-24 21:23:52.978] [exthost] [info] ExtensionService#_doActivateExtension jakethashi.vscode-angular2-emmet {"startup":true,"extensionId":{"value":"jakethashi.vscode-angular2-emmet","_lower":"jakethashi.vscode-angular2-emmet"},"activationEvent":"*"}
+[2020-05-24 21:23:52.978] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/jakethashi.vscode-angular2-emmet-2.0.3/out/src/extension
+[2020-05-24 21:23:53.239] [exthost] [info] ExtensionService#_doActivateExtension joelday.docthis {"startup":true,"extensionId":{"value":"joelday.docthis","_lower":"joelday.docthis"},"activationEvent":"*"}
+[2020-05-24 21:23:53.239] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/joelday.docthis-0.7.1/out/src/extension
+[2020-05-24 21:23:53.487] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-05-24 21:23:53.487] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/pkief.material-icon-theme-4.1.0/dist/extension
+[2020-05-24 21:23:53.561] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-05-24 21:23:53.561] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/vscode-icons-team.vscode-icons-10.1.1/dist/src/vscode-icons.bundle.js
+[2020-05-24 21:23:53.720] [exthost] [info] eager extensions activated
+[2020-05-24 21:27:05.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-05-24 21:27:05.544] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/31/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-05-24 21:31:49.087] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-05-24 21:31:49.087] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/31/usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-05-24 21:40:03.033] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-24 21:40:03.034] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/snap/code/31/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-24 21:44:36.171] [exthost] [info] [vscode.typescript-language-features] UNSAVE result from 'resolveCompletionItem', extension SHOULD NOT change any of: additionalTextEdits, or command
+[2020-05-24 21:51:03.280] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-24 21:51:03.280] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/snap/code/31/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-24 22:38:58.773] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-24 22:38:58.774] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/snap/code/31/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-05-24 22:40:13.919] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-05-24 22:40:13.919] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/snap/code/31/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
