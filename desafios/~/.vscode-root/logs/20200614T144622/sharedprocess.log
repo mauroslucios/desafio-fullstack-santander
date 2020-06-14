@@ -1,0 +1,28 @@
+[2020-06-14 14:46:27.144] [sharedprocess] [info] main {"machineId":"d91ba052f1bf9bfeda3945c419e59d73e310743bb0cc2e11105463f71e0d4c13","windowId":2}
+[2020-06-14 14:46:27.317] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/mauroslucios/Documentos/santander/desafios/~/.vscode-root/User/snippets'
+[2020-06-14 14:46:28.561] [sharedprocess] [info] Deleted from disk mtxr.sqltools /root/.vscode/extensions/mtxr.sqltools-0.22.4
+[2020-06-14 14:46:32.828] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2020-06-14 14:46:32.829] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2020-06-14 14:46:32.829] [sharedprocess] [info] Installing extension: mtxr.sqltools
+[2020-06-14 14:46:32.830] [sharedprocess] [info] Installing extension: mtxr.sqltools-driver-sqlite
+[2020-06-14 14:46:33.763] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /tmp/a3ed6f62-b4e1-4fdd-9822-5e897f0d4aa9
+[2020-06-14 14:46:34.187] [sharedprocess] [info] Downloaded extension: mtxr.sqltools-driver-sqlite /tmp/4489c23d-f105-444c-86fb-ffca905bc68c
+[2020-06-14 14:46:34.224] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.mtxr.sqltools-driver-sqlite-0.0.5: mtxr.sqltools-driver-sqlite
+[2020-06-14 14:46:34.224] [sharedprocess] [info] Renamed to /root/.vscode/extensions/mtxr.sqltools-driver-sqlite-0.0.5
+[2020-06-14 14:46:34.225] [sharedprocess] [info] Installation completed. mtxr.sqltools-driver-sqlite
+[2020-06-14 14:46:34.470] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.eamodio.gitlens-10.2.2: eamodio.gitlens
+[2020-06-14 14:46:34.470] [sharedprocess] [info] Renamed to /root/.vscode/extensions/eamodio.gitlens-10.2.2
+[2020-06-14 14:46:34.474] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2020-06-14 14:46:34.722] [sharedprocess] [info] Extensions installed successfully: mtxr.sqltools-driver-sqlite
+[2020-06-14 14:46:34.724] [sharedprocess] [info] Downloaded extension: mtxr.sqltools /tmp/74420507-1c10-450f-981c-d854f6527f0e
+[2020-06-14 14:46:34.767] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2020-06-14 14:46:34.980] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.mtxr.sqltools-0.22.7: mtxr.sqltools
+[2020-06-14 14:46:34.981] [sharedprocess] [info] Renamed to /root/.vscode/extensions/mtxr.sqltools-0.22.7
+[2020-06-14 14:46:34.982] [sharedprocess] [info] Installation completed. mtxr.sqltools
+[2020-06-14 14:46:35.057] [sharedprocess] [info] Extensions installed successfully: mtxr.sqltools
+[2020-06-14 14:46:37.123] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /tmp/3d566025-abdd-4679-9f5f-4b2cabb05952
+[2020-06-14 14:46:38.822] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-vsliveshare.vsliveshare-1.0.2302: ms-vsliveshare.vsliveshare
+[2020-06-14 14:46:38.822] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2302
+[2020-06-14 14:46:38.827] [sharedprocess] [info] Installation completed. ms-vsliveshare.vsliveshare
+[2020-06-14 14:46:38.928] [sharedprocess] [info] Extensions installed successfully: ms-vsliveshare.vsliveshare
+[2020-06-14 14:47:07.163] [sharedprocess] [info] Starting to clean up unused language packs.

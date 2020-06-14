@@ -1,0 +1,35 @@
+file:///home/mauroslucios/Documentos/santander/desafios/js/exercicio02.js {"mtime":1592157610487,"ctime":1590436654819,"size":431,"etag":"358k07bifds","orphaned":false}
+// function produto(multiplos){
+//     var produto = 1;
+//     for(const multiplo of multiplos){
+//         produto *= multiplo;
+//         return produto;  
+//     }
+// }
+// console.log(produto([1, 2, 7]) );
+/**
+ *
+ *
+ * @param {*} multiplos
+ * @returns
+ */
+function mult(multiplos) {
+
+    let totMult = 1
+   
+    for (const mult of multiplos) 
+    totMult *= mult
+   
+    return totMult
+   
+   }
+   
+   console.log(mult(1, 4, 7))
+   function produto(v){
+    var res= 1;
+    for(var i = 0; i < v.length; i++) {
+        res *= v[i];
+    }
+    return res;    
+}
+console.log(produto([1, 4, 7]));

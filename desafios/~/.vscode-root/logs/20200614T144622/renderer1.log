@@ -1,0 +1,87 @@
+[2020-06-14 14:46:39.795] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 55% of 5250.528ms, saved PROFILE here: '/tmp/exthost-acc8e6.cpuprofile' [{"id":"gc","total":26658,"percentage":1},{"id":"ms-vsliveshare.vsliveshare","total":168,"percentage":0},{"id":"program","total":480,"percentage":0},{"id":"ritwickdey.LiveServer","total":2863664,"percentage":55},{"id":"self","total":245889,"percentage":5},{"id":"vscode-icons-team.vscode-icons","total":34950,"percentage":1},{"id":"Zignd.html-css-class-completion","total":2078545,"percentage":40}]
+[2020-06-14 14:46:46.299] [renderer1] [error] Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2274/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:- https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=ubuntu.20.04-x64: Error: Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2274/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:- https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=ubuntu.20.04-x64
+    at ChildProcess.<anonymous> (/root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2274/src/abstractions/node/agent.ts:306:32)
+    at ChildProcess.emit (events.js:208:15)
+    at ChildProcess.EventEmitter.emit (domain.js:476:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:430:11)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at Pipe.<anonymous> (net.js:588:12)
+[2020-06-14 14:46:46.314] [renderer1] [error] ENOENT: no such file or directory, unlink '/root/.local/share/vsliveshare/cascade.json': Error: ENOENT: no such file or directory, unlink '/root/.local/share/vsliveshare/cascade.json'
+[2020-06-14 14:50:56.907] [renderer1] [error] Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2274/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:- https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=ubuntu.20.04-x64: Error: Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2274/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:- https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=ubuntu.20.04-x64
+    at ChildProcess.<anonymous> (/root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2274/src/abstractions/node/agent.ts:306:32)
+    at ChildProcess.emit (events.js:208:15)
+    at ChildProcess.EventEmitter.emit (domain.js:476:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:430:11)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at Pipe.<anonymous> (net.js:588:12)
+[2020-06-14 14:53:05.265] [renderer1] [error] Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2274/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:- https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=ubuntu.20.04-x64: Error: Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2274/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:- https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=ubuntu.20.04-x64
+    at ChildProcess.<anonymous> (/root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2274/src/abstractions/node/agent.ts:306:32)
+    at ChildProcess.emit (events.js:208:15)
+    at ChildProcess.EventEmitter.emit (domain.js:476:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:430:11)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at Pipe.<anonymous> (net.js:588:12)
+[2020-06-14 14:53:11.357] [renderer1] [error] Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2274/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:- https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=ubuntu.20.04-x64: Error: Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2274/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:- https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=ubuntu.20.04-x64
+    at ChildProcess.<anonymous> (/root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2274/src/abstractions/node/agent.ts:306:32)
+    at ChildProcess.emit (events.js:208:15)
+    at ChildProcess.EventEmitter.emit (domain.js:476:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:430:11)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at Pipe.<anonymous> (net.js:588:12)
+[2020-06-14 15:15:15.252] [renderer1] [error] Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2274/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:- https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=ubuntu.20.04-x64: Error: Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2274/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:- https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=ubuntu.20.04-x64
+    at ChildProcess.<anonymous> (/root/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.2274/src/abstractions/node/agent.ts:306:32)
+    at ChildProcess.emit (events.js:208:15)
+    at ChildProcess.EventEmitter.emit (domain.js:476:20)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:430:11)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at Pipe.<anonymous> (net.js:588:12)

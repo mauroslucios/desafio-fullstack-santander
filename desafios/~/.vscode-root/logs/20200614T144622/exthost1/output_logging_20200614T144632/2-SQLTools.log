@@ -1,0 +1,7 @@
+['ls:info'] SQLTools Server started!
+===============================
+Using node runtime?: false
+ExecPath: /snap/code/31/usr/share/code/code
+===============================
+['ext:lc:info'] LanguageClient ready
+namespaces set to  *,-babel*,-*:debug,-*:*:debug,-*:*:*:debug,-*:*:*:*:debug,-*:*:*:*:*:debug
